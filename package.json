@@ -2,7 +2,7 @@
   "name": "boilerplate",
   "version": "1.0.0",
   "description": "Gray Smith boilerplate for Turing Mod 2",
-  "main": "index.js",
+  "main": "PrefixTrie.js",
   "directories": {
     "lib": "lib",
     "test": "test"
