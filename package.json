@@ -2,7 +2,7 @@
   "name": "complete-me",
   "version": "1.0.0",
   "description": "Gray Smith boilerplate for Turing Mod 2",
-  "main": "PrefixTrie.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
